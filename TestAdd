@@ -1,0 +1,6 @@
+Steps :
+
+1) To Create a project to start from local system Crate project folder 
+
+ $ git init
+ $ git add     // add the files which are changed and new to staged changes
