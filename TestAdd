@@ -4,3 +4,6 @@ Steps :
 
  $ git init
  $ git add     // add the files which are changed and new to staged changes
+ $ git commit -m "This is test file to learn commiting"
+
+// Addin this line to test and view the changes with diff  
