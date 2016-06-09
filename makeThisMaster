@@ -1,0 +1,5 @@
+t checkout Learnmerge
+git branch -m master old-master
+git branch -m learnmerge master
+# And don't do this part.  Just don't.  But if you want to...
+# git branch -d --force old-master
