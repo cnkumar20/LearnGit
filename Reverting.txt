@@ -1,0 +1,1 @@
+ git checkout <that particular hash>  -- filetorevertTo
